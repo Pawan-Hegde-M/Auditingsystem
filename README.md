@@ -1,4 +1,4 @@
-# Auditingsystem
+# Auditingsystem is an ASP.NET project.
 # This project is designed according to the requirements of RDBMS mini project of NMAM institute of technology and can be customized accordingly.
 # Download the zip file or clone the repository and open the solution file using Microsoft visual studio.
 # Create a database named mini_project and Install or import the .bak backup file provided with the project on sql server.
