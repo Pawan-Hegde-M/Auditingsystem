@@ -5,5 +5,6 @@
 # Generate and copy the connection string from sql server and paste it in the web.config file of the project.
 # connection string format
 # <connectionStrings>
-# <add name="myconnection" connectionString="Data Source=servername;Initial Catalog=databasename;User ID=someid;Password=somepassword"     # providerName="instantprovider"/>
-# </connectionStrings>
+ <add name="myconnection" connectionString="Data Source=servername;Initial Catalog=databasename;User ID=someid;Password=somepassword"      providerName="instantprovider"/>
+ </connectionStrings>
+#
