@@ -6,4 +6,4 @@
 # connection string format is given in a seperate file
 # The backup file and connectionstring file are inside the AuditingSystem/Database named folder
 # Kindly delete the Database named folder after using the files inside it.
-
+# use ADR001 as username and "12345@aA" or "12345@sS" as password for first login.
