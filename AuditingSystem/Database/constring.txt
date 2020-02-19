@@ -1,0 +1,3 @@
+<connectionStrings>
+    <add name="myconnection" connectionString="Data Source=servername;Initial Catalog=databasename;User ID=id;Password=password" providerName="instantprovider"/>
+  </connectionStrings>
