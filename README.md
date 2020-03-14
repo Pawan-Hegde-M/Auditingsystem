@@ -14,4 +14,8 @@ The backup file and connectionstring file are inside the AuditingSystem/Database
 
 Kindly delete the Database named folder after using the files inside it.
 
-use ADR001 as username and "12345@aA" or "12345@sS" as password for first login.
+use ADR001 as username and "12345@sS" as password for first login to Auditor account.
+
+use ADT001 as username and "12345@sS" as password for first login to Audities account.
+
+For tutorial about usage of the software visit https://www.youtube.com/watch?v=gqJ4BpsWJas.
